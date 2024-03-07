@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# Environment-specific configs
+/config/env.js
+
+# Compiled binary addons (if any)
+/build/
+
+# Application artifacts
+/dist/
+
+# NPM lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
+
+
